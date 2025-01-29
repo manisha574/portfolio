@@ -8,7 +8,7 @@ import Experience from './pages/Experience';
 function App() {
   return (
     // Set the basename to '/portfolio' (or the name of your repo/subdirectory)
-    <Router basename="/portfolio">
+    <Router >
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
