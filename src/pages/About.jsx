@@ -49,7 +49,7 @@ export default function About() {
         {/* Right Section */}
         <div className="flex-1 mt-8 lg:mt-0 lg:ml-8">
           <img
-            src="src/Images/IMG-20240629-WA0032[1](1)(1).png"
+            src="/Images/IMG-20240629-WA0032[1](1)(1).png"
             alt="Manisha Singh"
             className="w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full shadow-md mx-auto lg:mx-0"
           />

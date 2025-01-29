@@ -12,7 +12,7 @@ export default function Intro() {
           </p>
           <div className="flex justify-center lg:justify-start gap-4">
             <a
-              href="src/Images/manisharesume2 (2).pdf"
+              href="/Images/manisharesume2 (2).pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-teal-600 text-white px-6 py-3 rounded-lg shadow-md font-semibold hover:bg-teal-700 transition duration-300"
@@ -20,7 +20,7 @@ export default function Intro() {
               View CV
             </a>
             <a
-              href="src/Images/manisharesume2 (2).pdf"
+              href="/Images/manisharesume2 (2).pdf"
               download="Manisha_Singh_CV.pdf"
               className="bg-gray-200 text-teal-600 px-6 py-3 rounded-lg shadow-md font-semibold hover:bg-gray-300 transition duration-300"
             >
@@ -32,9 +32,9 @@ export default function Intro() {
         {/* Right Section (Image) */}
         <div className="flex-1 mt-8 lg:mt-0 lg:ml-8">
           <img
-            src="src/Images/IMG-20240629-WA0032[1](1)(1).png"
+            src="/Images/IMG-20240629-WA0032[1](1)(1).png"
             alt="Manisha Singh"
-            className="w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full shadow-md mx-auto lg:mx-0"
+            className="w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full shadow-md mx-auto lg:mx-0 "
           />
         </div>
       </div>
