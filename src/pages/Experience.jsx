@@ -1,4 +1,4 @@
-import Header from "../Component/Header";
+import Header from "../Component/TempHeader";
 import React from 'react'
 
 

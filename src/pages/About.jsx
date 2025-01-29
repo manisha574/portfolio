@@ -1,4 +1,4 @@
-import Header from "../Component/Header";
+import Header from "../Component/TempHeader";
 
 export default function About() {
   return (

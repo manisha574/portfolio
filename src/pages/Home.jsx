@@ -1,4 +1,4 @@
-import Header from "../Component/Header";
+import Header from "../Component/TempHeader";
 import Intro from "../Component/Intro";
 import Project from "../Component/Project";
 import Skills from "../Component/Skills";

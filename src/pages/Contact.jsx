@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from '../Component/header';
+import Header from '../Component/TempHeader';
 
 const Contact = () => {
   return (

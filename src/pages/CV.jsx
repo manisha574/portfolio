@@ -1,9 +1,12 @@
 import React from 'react';
+import Header from '../Component/TempHeader';
+
 
 const CV = () => {
   return (
-    <section id="cv" className="bg-teal-50 py-12">
-      <h2 className="text-center text-3xl font-semibold text-teal-700 mb-10 underline">cv</h2>
+    <section id="cv" className="bg-teal-50 ">
+              <Header/>
+      <h2 className="text-center text-3xl font-semibold text-teal-700 mb-10 underline py-12">cv</h2>
 
       <div className="max-w-4xl mx-auto bg-white p-8 rounded-lg shadow-lg">
         <h3 className="text-2xl font-bold text-teal-700 mb-6">Manisha Singh</h3>
